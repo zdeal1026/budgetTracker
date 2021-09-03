@@ -52,7 +52,9 @@ For any questions please use the contact information below
 ## Links
 
 deployed application on heroku https://budgettracker1026.herokuapp.com/
+
 github repo https://github.com/zdeal1026/budgetTracker
 
 demo https://drive.google.com/file/d/13D0X2kh13xCryQ37wMNStDejfg_gTqJ8/view
 
+![Budget Tracker](https://user-images.githubusercontent.com/82068157/131945790-584eacfa-995a-4780-9ae0-34d706c6ccd5.png)
