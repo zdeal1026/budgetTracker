@@ -21,7 +21,8 @@
 
 ## Description
 
-We were given a starter application and asked to make it available offline. This was a difficult task and I still don't have my application running correctly. The application is available offline but I am unable to figure out how to make it update when connection is re-established. 
+We were given a starter application and asked to make it available offline. This was a fairly difficult task. Thankfully, the application was already given to us and we just needed to add indexdb, service-worker.js, manifest.webmanifest and other small things to make it work. My biggest error came from nanming the manifest.webmanifest file as manifest.json. It took a while to figure out this error but after much help with my tutor, I was able to tackle this assignment.
+
 
 ## Installation
  
@@ -53,4 +54,5 @@ For any questions please use the contact information below
 deployed application on heroku https://budgettracker1026.herokuapp.com/
 github repo https://github.com/zdeal1026/budgetTracker
 
+demo https://drive.google.com/file/d/13D0X2kh13xCryQ37wMNStDejfg_gTqJ8/view
 
